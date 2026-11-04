@@ -6,7 +6,7 @@ alembic==1.14.1
 pydantic-settings==2.8.1
 
 # TTS движок — Microsoft Edge TTS (бесплатный, без API-ключей)
-edge-tts==7.2.8
+edge-tts==7.3.1
 
 # Утилиты
 python-dotenv==1.0.1
